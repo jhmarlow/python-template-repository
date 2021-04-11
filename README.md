@@ -9,14 +9,12 @@
 Setup a template repository to be used in future python projects.
 
 # TODO:
-- Sphinx build docs with apidoc
 - Integrate tests with CI
 - Setup versioning
 
 # Badges
 Badges created using shield.io
 https://shields.io
-
 
 # Setup
 To setup:
@@ -44,10 +42,12 @@ Uses GitHub actions.
 
 # Documentation
 Uses Sphinx and GitHub pages.
+https://jhmarlow.github.io
 
 # Versioning 
-Uses versioneer
+Uses versioneer.
+https://github.com/python-versioneer/python-versioneer
 
 # Package Management 
 Setuptools
-https://testdriven.io/blog/running-flask-on-kubernetes/
+https://setuptools.readthedocs.io/en/latest/userguide/quickstart.html
