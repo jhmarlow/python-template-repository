@@ -1,0 +1,7 @@
+pytest
+pytest-flake8
+pylint
+pylint-fail-under
+flake8
+sphinx
+black

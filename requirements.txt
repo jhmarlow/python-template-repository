@@ -1,4 +1,1 @@
-pytest
-pylint
-flake8
-sphinx
+numpy

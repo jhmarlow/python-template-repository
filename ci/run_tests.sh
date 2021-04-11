@@ -1,0 +1,6 @@
+echo INFO: Running pytest and flake8...
+
+pytest
+
+echo INFO: Running pylint...
+pylint-fail-under --fail_under 9 examplepackage
