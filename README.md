@@ -15,6 +15,7 @@ Setup a template repository to be used in future python projects.
 
 # Badges
 Badges created using shield.io
+https://shields.io
 
 
 # Setup
