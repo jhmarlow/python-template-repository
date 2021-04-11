@@ -11,6 +11,9 @@ Setup a template repository to be used in future python projects.
 # TODO:
 - Integrate tests with CI
 - Setup versioning
+- Add coverage
+- Publish to repo location
+- Update badges
 - Integrate test results into gitlab 
 https://tryexceptpass.org/article/pytest-github-integration/
 

@@ -38,7 +38,7 @@ jobs:
       
       - name: Run pylint
         run: |
-          pylint-fail-under --fail_under 9 examplepackage
+          pylint-fail-under --fail_under 8 examplepackage
 
       - name: Sphinx Build
         uses: ammaraskar/sphinx-action@0.4
