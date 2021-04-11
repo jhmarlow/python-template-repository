@@ -2,6 +2,7 @@
 from setuptools import setup, find_packages
 import pathlib
 import pkg_resources
+import versioneer
 
 
 with pathlib.Path('requirements.txt').open() as requirements_txt:
@@ -19,11 +20,11 @@ with pathlib.Path('requirements_test.txt').open() as requirements_txt:
     ]
 
 setup(name='examplepackage',
-      version='1.0',
       description='An example package',
       author='Jacob Marlow',
       author_email='',
       url='',
+      version=versioneer.get_version(),
       packages=find_packages(),
       entry_points='''
         [console_scripts]
