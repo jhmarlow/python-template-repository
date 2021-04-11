@@ -11,6 +11,8 @@ Setup a template repository to be used in future python projects.
 # TODO:
 - Integrate tests with CI
 - Setup versioning
+- Integrate test results into gitlab 
+https://tryexceptpass.org/article/pytest-github-integration/
 
 # Badges
 Badges created using shield.io
